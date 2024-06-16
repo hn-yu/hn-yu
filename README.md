@@ -1,6 +1,6 @@
 # Haonan Yu - Computational Chemistry
 
-Hi there, my name is Haonan Yu, I'm a fresh-year Ph.D. student at *School of Energy, Central South U*.
+Hi there, my name is Haonan Yu, I'm a fresh-year Ph.D. student at **School of Energy, Central South U**.
 
 My previous expreience is mainly about Computer/Computational Science.
 
