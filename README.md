@@ -6,7 +6,7 @@ Hi there, it's Haonan Yu here, I'm a fresh-year Ph.D. student at **School of Ene
 
 > Here is uh, here's my resume um, I mean technically it says uh curriculum vitae. - Jesse Pinkman in the show "Breaking Bad"
 
-[Curriculum Vitae](https://github.com/hn-yu/hn-yu/CV%20(7).pdf)
+[Curriculum Vitae](https://github.com/hn-yu/hn-yu/blob/main/CV%20(7).pdf)
 
 My previous expreience is mainly about Computer/Computational Science.
 
