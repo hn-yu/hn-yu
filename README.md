@@ -4,9 +4,9 @@ Hi there, it's Haonan Yu here, I'm a fresh-year Ph.D. student at **School of Ene
 
 *Fun Fact: Haonan did not gain admission to the Master's program at this university but was accepted into the Doctoral program three years later, luckily advised by Prof. Zhiqiang Sun.*
 
-> Here is uh, here's my resume um, I mean technically it says uh curriculum vitae - Jesse Pinkman in the show "Breaking Bad"
+> Here is uh, here's my resume um, I mean technically it says uh curriculum vitae. - Jesse Pinkman in the show "Breaking Bad"
 
-TODO: add the CV
+Curriculum Vitae
 
 My previous expreience is mainly about Computer/Computational Science.
 
