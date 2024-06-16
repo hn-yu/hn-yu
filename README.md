@@ -10,4 +10,4 @@ I'm currently working on:
 - Nanoparticle/Surface/Lattice Sturcture
 - AI for Energy Science
 
-I'm open to ideas. If you want to collaborate with me, you know what to do ;)
+I'm open to ideas, both theoretical and exprimental. If you want to collaborate with me, you know what to do ;)
