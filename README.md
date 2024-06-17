@@ -1,6 +1,6 @@
 # Haonan Yu - Computational Chemistry
 
-Hi there, it's Haonan Yu. I'm a fresh-year Ph.D. student at **School of Energy Science and Engineering, Central South U**.
+Hi there, it's Haonan Yu. I'm a fresh-year Ph.D. student at **School of Energy Science and Engineering, Central South University**.
 
 *Fun Fact: Haonan did not gain admission to the Master's program at this university but was accepted into the Doctoral program three years later, luckily advised by Prof. Zhiqiang Sun.*
 
