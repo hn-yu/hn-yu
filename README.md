@@ -8,7 +8,7 @@ Hi there, it's Haonan Yu. I'm a fresh-year Ph.D. student at **School of Energy S
 
 [Curriculum Vitae](https://github.com/hn-yu/hn-yu/blob/main/CV%20(7).pdf)
 
-My previous experience is mainly about Computer/Computational Science.
+My previous experience is primarily focuses on Computer/Computational Science.
 
 > We wanted flying cars, instead we got 140 characters. - Peter Thiel
 
