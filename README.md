@@ -2,7 +2,7 @@
 
 Hi there, it's Haonan Yu. I'm a fresh-year Ph.D. student at **School of Energy Science and Engineering, Central South University**.
 
-*Fun Fact: Haonan did not gain admission to the Master's program at this university but was accepted into the Doctoral program three years later, luckily advised by Prof. Zhiqiang Sun, co-advised by Dr. Hanzi Liu*
+*Fun Fact: Haonan did not gain admission to the Master's program at this university but was accepted into the Doctoral program three years later, luckily advised by Prof. Zhiqiang Sun, co-advised by Dr. Hanzi Liu.*
 
 > Here is uh, here's my resume. I mean technically it says uh curriculum vitae. - Jesse Pinkman in the show "Breaking Bad"
 
