@@ -2,7 +2,7 @@
 
 Hi there, it's Haonan Yu. I'm a fresh-year Ph.D. student at **School of Energy Science and Engineering, Central South University**.
 
-*Fun Fact: Haonan did not gain admission to the Master's program at this university but accepted into the Doctoral program three years later, luckily advised by Prof. Zhiqiang Sun.*
+*Fun Fact: Haonan did not gain admission to the Master's program at this university but was accepted into the Doctoral program three years later, luckily advised by Prof. Zhiqiang Sun.*
 
 > Here is uh, here's my resume. I mean technically it says uh curriculum vitae. - Jesse Pinkman in the show "Breaking Bad"
 
@@ -22,4 +22,4 @@ I believe that [Deep Work](https://en.wikipedia.org/wiki/Attention_management) y
 
 I'm open to ideas, both theoretical and experimental. If you want to collaborate with me, please send me a **long** email.
 
-> I apologize for such a long letter. I didn't have time to write a short one. - Mark Twain
+> I apologize for such a long letter. I didn't have time to write a short one. - Blaise Pascal
