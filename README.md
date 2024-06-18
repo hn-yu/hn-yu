@@ -10,7 +10,7 @@ Hi there, it's Haonan Yu. I'm a fresh-year Ph.D. student at **School of Energy S
 
 My previous experience is primarily focuses on Computer/Computational Science.
 
-> We wanted flying cars, instead we got 140 characters. - Peter Thiel alluded to the success of "Twitter"
+> We wanted flying cars, instead we got 140 characters. - Peter Thiel on the success of "Twitter"
 
 I'm currently working on:
 
