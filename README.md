@@ -10,8 +10,6 @@ I'm luckily advised by Prof. Zhiqiang Sun, co-advised by Dr. Hanzi Liu.
 
 My previous experience is primarily focuses on Computer/Computational Science.
 
-> We wanted flying cars, instead we got 140 characters. - Peter Thiel on the success of "Twitter"
-
 I'm currently working on:
 
 - Computational Chemistry
