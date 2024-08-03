@@ -16,7 +16,7 @@ I'm currently working on:
 - Nanoparticle/Surface/Lattice Structure
 - AI for Energy Science
 
-I believe that [Deep Work](https://en.wikipedia.org/wiki/Attention_management) yields the best, but when I can't concentrate, I like to browse [Hacker News](https://news.ycombinator.com/).
+I believe that [Deep Work](https://en.wikipedia.org/wiki/Attention_management) yields the best. Keep away from recommand systems, attention is all you need!
 
 I'm open to ideas, both theoretical and experimental. If you want to collaborate with me, please send me a **long** email.
 
