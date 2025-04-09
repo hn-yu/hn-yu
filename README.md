@@ -6,7 +6,7 @@ I'm luckily advised by Prof. Zhiqiang Sun, co-advised by Dr. Hanzi Liu.
 
 > Here is uh, here's my resume. I mean technically it says uh curriculum vitae. - Jesse Pinkman in the show "Breaking Bad"
 
-[Curriculum Vitae](https://github.com/hn-yu/hn-yu/blob/main/CV%20(7).pdf)
+[Curriculum Vitae](https://hnyu.org/cv.pdf)
 
 My previous experience is primarily focuses on Computer/Computational Science.
 
