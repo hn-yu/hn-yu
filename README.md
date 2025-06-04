@@ -16,7 +16,7 @@ I'm currently working on:
 - Nanoparticle/Surface/Lattice Structure
 - AI for Energy Science
 
-I believe that Deep Work yields the best, but when I can't concentrate, I like to browse [Hacker News](https://news.ycombinator.com/).
+I often switch between different tasks, just like a typical [ADHD](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder); when my focus drifts, I browse [Hacker News](https://news.ycombinator.com/) to reset my mind.
 
 I'm open to ideas, both theoretical and experimental. If you want to collaborate with me, please send me a **long** email.
 
