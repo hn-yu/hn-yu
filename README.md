@@ -2,8 +2,6 @@
 
 Hi there, it's Haonan Yu. I'm a fresh-year Ph.D. student at **School of Energy Science and Engineering, Central South University**.
 
-I'm luckily advised by Prof. Zhiqiang Sun, co-advised by Dr. Hanzi Liu.
-
 > Here is uh, here's my resume. I mean technically it says uh curriculum vitae. - Jesse Pinkman in the show "Breaking Bad"
 
 [Curriculum Vitae](https://hnyu.org/assets/pdf/CV.pdf)
