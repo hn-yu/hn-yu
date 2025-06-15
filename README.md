@@ -18,4 +18,4 @@ I often switch between different tasks, just like a typical [ADHD](https://en.wi
 
 I'm open to ideas, both theoretical and experimental. If you want to collaborate with me, please send me a **long** email.
 
-> I apologize for such a long letter. I didn't have time to write a short one. - Blaise Pascal
+> Please forgive the long letter; I didn't have time to write a short one. - Blaise Pascal
